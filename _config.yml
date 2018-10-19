@@ -1,5 +1,5 @@
 ---
-title: MSCC
+title: DEPT
 timezone: GMT
 collections:
   posts:
@@ -10,7 +10,7 @@ collections:
     output: true
 defaults:
 email: naamanh10@gmail.com
-description: Manchesters most inclusive road cycling club promoting health and wellbeing.
+description: Deal or No Deal
 baseurl: ''
 url: http://mscc.naamanhudson.com/
 markdown: kramdown
